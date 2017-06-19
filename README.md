@@ -1,0 +1,2 @@
+# flags-of-various-countries-Quiz
+an application that displays a flag and allows the student to select the corresponding country from a list. The application should inform the user of whether the answer is correct and display the next flag. The application should display five flags randomly chosen from the flags of Australia, Brazil, China, Italy, Russia, South Africa, Spain and the United States. When the application is executed, a given flag should be displayed only once. Each question must be carried out within 15 second. 
